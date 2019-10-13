@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """This is an @FileRenameitBot clone created using the Open Source code available.
-Source Code: https://github.com/Sanju8943/RenameBot
+Source Code: https://github.com/Sanju8943/FileRenameitBot
 © @FileRenameitBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
